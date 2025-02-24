@@ -88,6 +88,6 @@ I am an ambitious developer eager to take on challenging projects and continue i
 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=boburDev&show_icons=true&theme=dark" alt="GitHub Stats" width="30%" height="180px" style="display: inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boburDev&layout=compact&theme=dark" alt="Top Languages" width="60%" height="180px" style="display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=boburDev&show_icons=true&theme=dark" alt="GitHub Stats" width="50%" height="180px" style="display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boburDev&layout=compact&theme=dark" alt="Top Languages" width="50%" height="180px" style="display: inline-block;"/>
 </div>
