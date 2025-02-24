@@ -76,16 +76,11 @@ I am an ambitious developer eager to take on challenging projects and continue i
 ## 📊 GitHub Statistics:
 
 <br />
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=boburDev&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="200px"/>
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boburDev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="200px"/>
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boburDev&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="200px" style="margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boburDev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="200px"/>
+</div>
 
 <br />
 <p align="center">
