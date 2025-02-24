@@ -73,10 +73,10 @@ I am a passionate **Backend Engineer** with over **4 years of experience** in IT
 ## Summary
 I am an ambitious developer eager to take on challenging projects and continue improving my technical expertise. Open to new opportunities in IT development!
 
-## 📊 My GitHub Stats
+## 📊 GitHub Statistics:
 
-<table style="border: none !important;">
-  <tr style="border: 0px">
+<table>
+  <tr style="border: 0px;">
     <td style="border: none !important;">
       <img src="https://github-readme-stats.vercel.app/api?username=boburDev&show_icons=true&theme=dark" alt="GitHub Stats" height="180px"/>
     </td>
