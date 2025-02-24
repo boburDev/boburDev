@@ -1,28 +1,35 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend(ReactJs,NextJs,Typescript)+developer)](https://git.io/typing-svg)
-<br />
-<h1 align="center">Hi <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="30px">, I'm Sohibjon</h1>
-<h3 align="center">A Strong Junior Frontend Developer from Uzbekistan</h3>
+# Hi there, I'm Boburmirzo! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohibjonabdialimov&label=Profile%20views&color=0e75b6&style=flat" alt="sohibjonabdialimov" /> </p>
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs and MongoDb**
+- **Name:** Boburmirzo Negmatov  
+- **📧 Email:** [negmatov1907@gmail.com](mailto:negmatov1907@gmail.com)  
+- **📱 Telegram:** [@boburmirzo_negmatov](https://t.me/boburmirzo_negmatov)  
+- **🔗 LinkedIn:** [Бобурмирзо Негматов](https://www.linkedin.com/in/%D0%B1%D0%BE%D0%B1%D1%83%D1%80%D0%BC%D0%B8%D1%80%D0%B7%D0%BE-%D0%BD%D0%B5%D0%B3%D0%BC%D0%B0%D1%82%D0%BE%D0%B2-b73b09206)  
+- **📞 Phone:** +998 99 861 69 51  
 
-- 💬 Ask me about **ReactJs, Typescript, NextJs, Javascript, React-Redux, Redux-Toolkit, MobX, Zustand, React Formik, Ant Design, Material UI, I18Next, VueJs, Pinia, HTML, CSS, Tailwind CSS, SASS, Bootstrap, Firebase, Git**
+## 🚀 Languages and Tools:
+<p align="left">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/img/logo_text.svg" alt="NestJS" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+  <a href="https://supabase.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="40" height="40"/></a>
+  <a href="https://oauth.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oauth/oauth-icon.svg" alt="OAuth" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="Materialize" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+</p>
 
-- 📫 How to reach me **sohibjonabdialimov6@gmail.com, sohibjonabdialimov1@gmail.com**
-- 👨‍💻 All of my projects are available at [https://uzaksu.uz/](https://uzaksu.uz/)
+## 📊 GitHub Statistics:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Boburmirzo&show_icons=true&theme=dark" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boburmirzo&layout=compact&theme=dark" alt="Top Languages" height="180px"/>
+</p>
 
-
-<h2 align="center">Contact with me:</h2>
-<!-- My phone number: +998976367975 <br />
-My telegram account: <a href="https://t.me/sohibjon_developer">@sohibjon_developer</a> <br />
-My linkedin account: <a href="https://www.linkedin.com/in/sohibjon-developer/">www.linkedin.com/in/sohibjon-developer</a> -->
-<h5 align="center">
-  <a href="https://www.linkedin.com/in/sohibjon-developer/" title="LinkedIn Profile"><img width="80" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/sohibjon_developer/" title="Instagram Profile"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://t.me/sohibjon_developer" title="Telegram Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-</h5>
-<!-- <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sohibjon-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sohibjon-developer/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sohibjon_developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sohibjon_developer/" height="30" width="40" /></a>
-</p> -->
+### ⚡ Feel free to connect with me!
