@@ -73,17 +73,14 @@ I am a passionate **Backend Engineer** with over **4 years of experience** in IT
 ## Summary
 I am an ambitious developer eager to take on challenging projects and continue improving my technical expertise. Open to new opportunities in IT development!
 
-## 📊 GitHub Statistics:
-<p align="left">
+## 📊 My GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boburDev&show_icons=true&theme=dark" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boburDev&layout=compact&theme=dark" alt="Top Languages" height="180px"/>
 </p>
 
-<h2 align="center">My GitHub Stats 📊</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boburDev&theme=dark" alt="GitHub Streak Stats" height="180px"/>
+</p>
 
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boburDev&show_icons=true&locale=en&layout=compact" alt="boburDev" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=boburDev&show_icons=true&locale=en" alt="boburDev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boburDev&" alt="boburDev" /></p>
