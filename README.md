@@ -28,8 +28,8 @@
 
 ## 📊 GitHub Statistics:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boburmirzo&show_icons=true&theme=dark" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boburmirzo&layout=compact&theme=dark" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=boburDev&show_icons=true&theme=dark" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boburDev&layout=compact&theme=dark" alt="Top Languages" height="180px"/>
 </p>
 
 ### ⚡ Feel free to connect with me!
