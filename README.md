@@ -69,6 +69,11 @@ I am a passionate **Backend Engineer** with over **4 years of experience** in IT
 - [Current GitHub Profile](https://github.com/boburmirzo)
 - [Old Account (Before Oct 2021)](https://github.com/boburDev?tab=overview&from=2021-12-01&to=2021-12-31)
 - [Soffit Account (Oct 2021 – Nov 2022)](https://github.com/soffit2021?tab=overview&from=2022-12-01&to=2022-12-31)
+  
+## GitHub
+- <a href="https://github.com/boburmirzo" target="_blank">Current GitHub Profile</a>
+- <a href="https://github.com/boburDev?tab=overview&from=2021-12-01&to=2021-12-31" target="_blank">Old Account (Before Oct 2021)</a>
+- <a href="https://github.com/soffit2021?tab=overview&from=2022-12-01&to=2022-12-31" target="_blank">Soffit Account (Oct 2021 – Nov 2022)</a>
 
 ## Summary
 I am an ambitious developer eager to take on challenging projects and continue improving my technical expertise. Open to new opportunities in IT development!
