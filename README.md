@@ -1,50 +1,97 @@
-# Boburmirzo Negmatov
+# 💻 Boburmirzo Negmatov  
 
-## About Me
-I am a passionate **Backend Engineer** with over **3 years of experience** in IT, specializing in **Node.js, TypeScript, and PostgreSQL**. I love solving complex problems, developing scalable software solutions, and optimizing system performance. My expertise includes working with network protocols, database management, and API integrations.
+🚀 **Backend Engineer | Project Manager**  
+🔹 **Location:** Tashkent, Uzbekistan  
+🔹 **Email:** negmatov1907@gmail.com  
+🔹 **Phone:** +998 99 8616951  
+🔹 **GitHub:** [boburDev](https://github.com/boburDev) | [soffit2021](https://github.com/soffit2021)  
 
-## Skills & Technologies
-- **Backend Development:** Node.js, Express.js, NestJS, GraphQL, Socket.io
-- **Frontend (Basic Knowledge):** React.js
-- **Databases:** PostgreSQL, NoSQL, Redis
-- **DevOps & Infrastructure:** Linux, Nginx, Docker, CI/CD
-- **Protocols & Networking:** DLMS, HDLC, TCP, Serialport, Modem, USPD
-- **Authentication & Security:** JWT, OAuth
+---  
 
-## Experience
-### **Backend Engineer at Alpha Electronics (IOTICS)** *(Jan 2024 – Aug 2024)*
-- Developed software for collecting and analyzing meter data
-- Integrated with protocols like **DLMS, HDLC, TCP, Serialport, Modem**
-- Designed and implemented **ORM solutions** for efficient data storage
-- Built APIs for external system integration
-- Optimized system security and data protection
+## 🔥 About Me  
 
-### **Backend Developer at Soffit (IzmaCRM)** *(Sep 2021 – Nov 2022)*
-- Led backend development for **IzmaCRM**, a CRM and payment system
-- Managed a team of 8 developers, overseeing API development and database architecture
-- Developed **p2p payment integrations (Click, Payme)**
-- Worked with **GraphQL, REST APIs, PostgreSQL, and WebSockets**
+I am a **Backend Engineer** with over **3+ years of experience** in developing and managing software projects. Passionate about designing scalable backend solutions, optimizing performance, and leading development teams. Strong expertise in **Node.js, TypeScript, PostgreSQL, MongoDB, and system integrations**.  
 
-### **Node.js Developer at Supersite** *(Mar 2021 – Aug 2021)*
-- Developed backend for **23TV**, a video streaming application
-- Implemented **HLS & DASH players, WebRTC streaming**
-- Designed PostgreSQL-based data architecture
+In addition to backend development, I have **experience as a Project Manager**, overseeing development teams, setting priorities, and ensuring timely project delivery using Agile methodologies and task management tools like **ClickUp**.  
 
-## Education & Certifications
-- **Najot Talim** - FullStack Development (2021)
-- **PDP Academy** - iOS Mobile Development (2022)
-- **Materacademy.uz** - Ubuntu Server & System Administration (2024)
-- **International School** - IELTS C1 (2024)
+---
 
-## Contact
-📞 +998 99 861 69 51  
-📧 negmatov1907@gmail.com  
-🌍 Tashkent, Uzbekistan  
+## 🛠️ Tech Stack  
 
-## GitHub
-- [Old Account (Before Oct 2021)](https://github.com/boburDev?tab=overview&from=2021-12-01&to=2021-12-31)
-- [Soffit Account (Oct 2021 – Nov 2022)](https://github.com/soffit2021?tab=overview&from=2022-12-01&to=2022-12-31)
+🔹 **Backend:** Node.js, Express.js, NestJS, GraphQL, Socket.io  
+🔹 **Databases:** PostgreSQL, MongoDB, Redis  
+🔹 **DevOps & Tools:** Docker, CI/CD, Nginx, Linux  
+🔹 **API Development:** REST, GraphQL, gRPC  
+🔹 **Authentication & Security:** JWT, OAuth  
+🔹 **Project Management:** ClickUp, Agile, Scrum  
+🔹 **Cloud Services:** Google Cloud, DigitalOcean  
 
-## Summary
-I am an ambitious developer eager to take on challenging projects and continue improving my technical expertise. Open to new opportunities in IT development!
+---
+
+## 🏆 Experience  
+
+### **🔹 Project Manager | Ishon Project**  
+📅 **September 2024 – November 2024**  
+
+- Led the development of a job-seeker platform aimed at connecting employers with potential candidates.  
+- Managed the team using **ClickUp**, setting clear goals and tracking progress.  
+- Supervised the development of **Telegram Bot v1.0.0**, ensuring smooth deployment.  
+- Planned and initiated the **Ishon Web App v2.0.0**, defining system architecture and feature scope.  
+- Coordinated tasks between frontend and backend teams, ensuring alignment with project goals.  
+
+---
+
+### **🔹 Backend Developer | Marketplace Project**  
+📅 **November 2024 – January 2025**  
+
+- Developed a **marketplace backend** using **Node.js, TypeScript, and MongoDB**.  
+- Integrated the platform with **MoySklad API** for real-time inventory management and order processing.  
+- Optimized database queries and improved API response times.  
+- Implemented **secure authentication** and user role management.  
+
+---
+
+### **🔹 Backend Engineer | Alpha Electronics (IOTICS)**  
+📅 **January 2024 – August 2024**  
+
+- Developed **software for collecting data from smart meters** using **DLMS, HDLC, TCP, SerialPort, and Modem** protocols.  
+- Designed and maintained an **ORM-based database** for storing meter data.  
+- Built **APIs for external system integration** and **automated data collection**.  
+- Led a **team of 3 developers**, setting tasks and overseeing development cycles.  
+
+---
+
+### **🔹 Backend Developer | Soffit (IzmaCRM)**  
+📅 **September 2021 – November 2022**  
+
+- Developed **IzmaCRM** with features like **auto payments, P2P transfers (Click, Payme)**, and a **Telegram bot**.  
+- Built REST and GraphQL APIs, integrated authentication using **JWT and OAuth**.  
+- Designed **business processes** and implemented **CI/CD pipelines**.  
+
+---
+
+## 📈 Additional Experience  
+
+- **Full-Stack Internship | MBM IT Company (2020–2021):** Worked on web applications using React.js, Node.js, and MongoDB.  
+- **Freelance Backend Projects:** Developed custom API solutions and automation scripts.  
+
+---
+
+## 🎓 Education & Certifications  
+
+- **PDP Academy** – iOS Mobile Apps Development (2022)  
+- **Najot Ta'lim** – Full-Stack Development (2021)  
+- **INHA University** – Software Engineering (2020, unfinished)  
+- **Ubuntu Server & System Administration** – MaterAcademy (2024)  
+- **IELTS Certification** – English C1 Level (2024)  
+
+---
+
+## 📞 Contact  
+
+💌 Email: **negmatov1907@gmail.com**  
+📍 Location: **Tashkent, Uzbekistan**  
+📂 GitHub: **[boburDev](https://github.com/boburDev)** | **[soffit2021](https://github.com/soffit2021)**  
+
+🚀 Always open to new opportunities and exciting projects!  
 
