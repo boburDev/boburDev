@@ -77,7 +77,7 @@ I am an ambitious developer eager to take on challenging projects and continue i
 
 <br />
 
-<p align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
+<p align="center" style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=boburDev&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="200px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boburDev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="200px"/>
 </p>
