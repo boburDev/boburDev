@@ -82,5 +82,5 @@ I am an ambitious developer eager to take on challenging projects and continue i
 
 <br />
 <p align="start" width="100%"> 
-  <img src="https://streak-stats.demolab.com/?user=boburDev&theme=dark" alt="GitHub Streak" width="100%" height="200px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=boburDev&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" height="200px" />
 </p>
