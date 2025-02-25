@@ -80,7 +80,3 @@ I am an ambitious developer eager to take on challenging projects and continue i
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boburDev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" margin-left="auto" height="200px" width="39.5%"/>
 </div>
 
-<br />
-<p align="start" width="100%"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=boburDev&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" height="200px" />
-</p>
